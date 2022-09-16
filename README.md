@@ -1,2 +1,3 @@
-# Path-finder
-Data Structure &amp; Algorithm 2 - CA 2 
+# CA2
+Starting Code for CA2
+<img src="routeFinder.png" alt="Dijkstras Algorithm">
